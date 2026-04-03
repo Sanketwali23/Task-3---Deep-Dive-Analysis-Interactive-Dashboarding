@@ -125,7 +125,7 @@ The analysis identifies:
 
 ## 👨‍💻 Author
 
-**Jagan Mohan Reddy B**  
+**Sanket Wali**  
 Aspiring Data Analyst | Business Intelligence Enthusiast  
 
 - Skills: Power BI, SQL, Python, Data Analysis  
